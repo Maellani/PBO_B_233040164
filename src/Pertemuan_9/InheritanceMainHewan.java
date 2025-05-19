@@ -1,4 +1,4 @@
-package Pertemuan_7;
+package Pertemuan_9;
 
 public class InheritanceMainHewan {
     public static void main(String[] args) {

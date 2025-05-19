@@ -1,4 +1,4 @@
-package Pertemuan_7;
+package Pertemuan_9;
 
 //Latihan 1
 /*public class Orang {

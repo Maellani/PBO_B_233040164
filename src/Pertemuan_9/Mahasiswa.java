@@ -1,4 +1,4 @@
-package Pertemuan_7;
+package Pertemuan_9;
 
 //latihan 1 & 2
 /*public class Mahasiswa extends Orang {
